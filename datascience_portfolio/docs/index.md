@@ -1,3 +1,3 @@
 # Projekty z AI
 
-Witam na stronie odnośnie moich projektów
+Witam na stronie odnośnie moich projekcików.

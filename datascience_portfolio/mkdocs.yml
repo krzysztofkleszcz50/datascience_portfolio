@@ -1,7 +1,11 @@
 site_name: Portfolio
 site_author: Krzysztof Kleszcz
 site_description: >-
-  Portfolio moich projektów.
+  Portfolio moich projektów. Ciesze sięę...
+
+repo_name: krzysztofkleszcz50/datascience_portfolio
+repo_url: https://github.com/krzysztofkleszcz50/datascience_portfolio
+
 
 theme:
   name: material

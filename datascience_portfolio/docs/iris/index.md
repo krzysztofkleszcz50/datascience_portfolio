@@ -1,6 +1,6 @@
 # Analiza Irysów
 
-Zapraszam do zapoznania się z analizą irysów.
+Zapraszam do zapoznania się z analizą irysi.
 
 <a href="iris.ipynb" class="md-button md-button--primary">Pobierz Notebook</a>
 
