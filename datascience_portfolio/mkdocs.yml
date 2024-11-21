@@ -1,0 +1,17 @@
+site_name: Portfolio
+site_author: Krzysztof Kleszcz
+site_description: >-
+  Portfolio moich projektów.
+
+theme:
+  name: material
+  palette:
+    primary: amber
+
+nav:
+- Strona Domowa: index.md
+- Obecne projekty: 
+  - "Titanic": titanic/index.md
+- Poprzednie projekty:
+  - "Iris": iris/index.md
+
